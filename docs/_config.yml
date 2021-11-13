@@ -31,7 +31,7 @@ github_username:  me
 minimal_mistakes_skin: "aqua"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
