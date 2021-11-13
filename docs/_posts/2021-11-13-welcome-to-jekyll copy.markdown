@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title:  "Some random stuff here"
 date:   2021-11-13 14:34:47 +0100
 categories: jekyll update

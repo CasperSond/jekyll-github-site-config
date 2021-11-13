@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title:  "vla"
 date:   2021-11-13 14:34:47 +0100
 ---
